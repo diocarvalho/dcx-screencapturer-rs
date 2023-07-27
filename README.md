@@ -1,4 +1,4 @@
-# screencapturer-rs
+# dcx_screencapturer
 
 This library was made to capture screens, from the operating systems:
 ### Windows - work; 
