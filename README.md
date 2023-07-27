@@ -34,5 +34,5 @@ Just add the libraries on _**Cargo.toml**_
 ```
 [dependencies]
 image = "0.24.6"
-dcx_screencapture = "0.1.1"
+dcx_screencapture = "0.1.3"
 ```
