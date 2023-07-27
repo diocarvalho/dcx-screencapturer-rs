@@ -1,12 +1,12 @@
 [package]
 name = "dcx_screencapturer"
 authors = ["Diego Carvalho", "<dio.carvalho.veg@gmail.com>"]
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 description = "A library to capture screens"
 documentation = "https://github.com/diocarvalho/dcx-screencapturer-rs"
 repository = "https://github.com/diocarvalho/dcx-screencapturer-rs"
-license  = "Unlicense"
+license  = "CC0-1.0"
 
 [lib]
 name = "dcx_screencapturer"
