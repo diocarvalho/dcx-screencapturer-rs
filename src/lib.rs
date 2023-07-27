@@ -1,4 +1,3 @@
-
 #![allow(unused_assignments)]
 extern crate windows_sys;
 
