@@ -13,6 +13,7 @@ mod dcx_screencapture
         GetDIBits, 
         DeleteDC, 
         SelectObject, 
+		DeleteObject,
         GetDC, 
         ReleaseDC, 
         SRCCOPY, 
